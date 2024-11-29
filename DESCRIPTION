@@ -22,8 +22,7 @@ Imports:
     gridBase, 
     magrittr,
     maptpx,
-    CountClust,
-    Logolas
+    CountClust
 Remotes: 
     kkdey/maptpx, 
     kkdey/CountClust, 
