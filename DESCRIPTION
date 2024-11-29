@@ -27,7 +27,6 @@ Imports:
 Remotes: 
     kkdey/maptpx, 
     kkdey/CountClust, 
-    kkdey/Logolas
 Suggests:
     knitr, 
     BiocStyle, 
